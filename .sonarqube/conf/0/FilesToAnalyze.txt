@@ -1,0 +1,1 @@
+﻿C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Shared\Extension\ExtensionGuid.cs

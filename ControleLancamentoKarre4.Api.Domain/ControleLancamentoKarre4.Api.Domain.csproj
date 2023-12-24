@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DocumentFormat.OpenXml" Version="2.12.3" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.11.0" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControleLancamentoKarre4.Api.Shared\ControleLancamentoKarre4.Api.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

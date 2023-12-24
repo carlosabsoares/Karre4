@@ -1,0 +1,7 @@
+﻿C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Entities\BaseEntity.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Entities\ConsolidadoDto.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Entities\LancamentoEntity.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Enum\EnTipoOperacao.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Repositories\ICudRepository.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Repositories\ILancamentoRepository.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Domain\Settings.cs

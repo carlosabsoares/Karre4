@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Back", "Back", "{1B1BB4B5-F9FD-4D83-B1AF-6328E5FDA8DF}"
+	ProjectSection(SolutionItems) = preProject
+		ReadME.txt = ReadME.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.Api", "ControleLancamentoKarre4.Api.Api\ControleLancamentoKarre4.Api.Api.csproj", "{7C5D5FB8-0B99-435A-BB9D-B818070D5652}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.Application", "ControleLancamentoKarre4.Api.Application\ControleLancamentoKarre4.Api.Application.csproj", "{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.Domain", "ControleLancamentoKarre4.Api.Domain\ControleLancamentoKarre4.Api.Domain.csproj", "{1788958E-8191-4F57-A6F7-86A89DCF52E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.Infra", "ControleLancamentoKarre4.Api.Infra\ControleLancamentoKarre4.Api.Infra.csproj", "{FE142AF3-F1F9-47EF-9E07-5F0D1605A041}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.Shared", "ControleLancamentoKarre4.Api.Shared\ControleLancamentoKarre4.Api.Shared.csproj", "{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleLancamentoKarre4.Api.XUnitTest", "ControleLancamentoKarre4.Api.XUnitTest\ControleLancamentoKarre4.Api.XUnitTest.csproj", "{27720A30-1403-4EC3-BAE3-75EEC018197E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5D5FB8-0B99-435A-BB9D-B818070D5652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5D5FB8-0B99-435A-BB9D-B818070D5652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5D5FB8-0B99-435A-BB9D-B818070D5652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5D5FB8-0B99-435A-BB9D-B818070D5652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1788958E-8191-4F57-A6F7-86A89DCF52E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1788958E-8191-4F57-A6F7-86A89DCF52E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1788958E-8191-4F57-A6F7-86A89DCF52E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1788958E-8191-4F57-A6F7-86A89DCF52E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE142AF3-F1F9-47EF-9E07-5F0D1605A041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE142AF3-F1F9-47EF-9E07-5F0D1605A041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE142AF3-F1F9-47EF-9E07-5F0D1605A041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE142AF3-F1F9-47EF-9E07-5F0D1605A041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27720A30-1403-4EC3-BAE3-75EEC018197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27720A30-1403-4EC3-BAE3-75EEC018197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27720A30-1403-4EC3-BAE3-75EEC018197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27720A30-1403-4EC3-BAE3-75EEC018197E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6} = {1B1BB4B5-F9FD-4D83-B1AF-6328E5FDA8DF}
+		{7C5D5FB8-0B99-435A-BB9D-B818070D5652} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+		{0C2BCB93-3B5E-4E8A-802C-857DFEE1775F} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+		{1788958E-8191-4F57-A6F7-86A89DCF52E8} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+		{FE142AF3-F1F9-47EF-9E07-5F0D1605A041} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+		{87B7BC84-5EEB-4A08-9A9C-B9EBB0F22733} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+		{27720A30-1403-4EC3-BAE3-75EEC018197E} = {EA5CA5C3-9B1E-4B11-81DB-C2EF680B3AD6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9691E5-E899-45DF-88F0-57F9FFAB07AE}
+	EndGlobalSection
+EndGlobal

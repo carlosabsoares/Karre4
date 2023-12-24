@@ -1,0 +1,17 @@
+﻿C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\Controllers\ConsolidadoController.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\Controllers\LancamentoController.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\DependencyMap\AutoMapperSetup.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\DependencyMap\RepositoryDependencyMap.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\DependencyMap\ServiceDependencyMap.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\Program.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\Startup.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\obj\Debug\net8.0\ControleLancamentoKarre4.Api.Api.GlobalUsings.g.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\obj\Debug\net8.0\ControleLancamentoKarre4.Api.Api.AssemblyInfo.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\obj\Debug\net8.0\ControleLancamentoKarre4.Api.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\appsettings.Development.json
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\appsettings.json
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\ControleFinanceiro.db
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\ControleFinanceiro.db-shm
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\ControleFinanceiro.db-wal
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Api\Properties\launchSettings.json

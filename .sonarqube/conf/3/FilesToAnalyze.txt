@@ -1,0 +1,7 @@
+﻿C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Context\DataContext.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Mapping\MapLancamentoContext.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Migrations\20230430141510_CriacaoBase.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Migrations\20230430141510_CriacaoBase.Designer.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Migrations\DataContextModelSnapshot.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Repositories\CudRepository.cs
+C:\Carlos\Fontes\CtSistemas\Karre4\ControleLancamentoKarre4.Api.Infra\Repositories\LancamentoRepository.cs
